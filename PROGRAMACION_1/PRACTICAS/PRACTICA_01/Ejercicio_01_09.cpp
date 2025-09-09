@@ -2,7 +2,7 @@
 // Autor: Helen Mayra Paz Pariguana
 // Carnet: 12608230 L.P.
 // Carrera del estudiante: Ingeneria de Sistemas
-// Fecha de Creacion: 27/08/25
+// Fecha de Creacion: 04/09/25
 // Numero de Ejercicio: 9 
 
 #include <iostream>
