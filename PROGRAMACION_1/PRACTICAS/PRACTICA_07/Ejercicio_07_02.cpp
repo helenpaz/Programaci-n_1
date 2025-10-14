@@ -5,11 +5,6 @@
 // Fecha de Creacion: 14/10/25
 // Numero de Ejercicio: 2
 
-// Materia: Programación I, Paralelo 3
-// Autor: Tu Nombre
-// Fecha creación: 14/10/2025
-// Número de ejercicio: 2
-
 #include <iostream>
 #include <vector>
 #include <cstdlib>
@@ -111,3 +106,4 @@ int main()
     cout << "Desviacion estandar: " << desviacionEstandar(matriz, n) << endl;
     return 0;
 }
+
