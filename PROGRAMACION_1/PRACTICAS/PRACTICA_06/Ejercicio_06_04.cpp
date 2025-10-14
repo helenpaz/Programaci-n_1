@@ -33,8 +33,7 @@ int main()
     if(n > 0)
     {
         k = k % n;
-        if(k < 0) 
-            k = (k + n) % n;
+        if(k < 0) k = (k + n) % n;
     }
     if(k != 0)
     {
@@ -54,4 +53,3 @@ int main()
     cout << endl;
     return 0;
 }
-
