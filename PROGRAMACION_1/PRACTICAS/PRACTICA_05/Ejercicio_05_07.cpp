@@ -15,13 +15,18 @@ int main()
         int num;
         cout << "Numero: ";
         cin >> num;
-        if(num < 0) break;
+        if(num < 0) 
+        {
+            break;
+        }
         v[n] = num;
         n++;
     }
     cout << "Vector ingresado: ";
     for(int i=0; i<n; i++) 
+    {
         cout << v[i] << " ";
+    }
     cout << endl;
     return 0;
 }
